@@ -51,7 +51,7 @@ The application follows the **Repository Pattern** for data management, ensuring
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/Youssef-Remah/Stock-Trading-App.git
+    git clone https://github.com/esneidermotta/Stock-Trading-App.git
     ```
 
 2. **Navigate to the project directory:**
